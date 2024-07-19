@@ -5,4 +5,10 @@
 
   <p> Text of section. </p>
 
+  <interactive my-cool-app="example parameter value" type="other-app">
+    This is the content of the interactive XML tag.
+  </interactive>
+
+  <p> And now what?</p>
+
 </section>
